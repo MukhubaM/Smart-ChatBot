@@ -97,5 +97,3 @@ React.js
 💬 Feedback
 
 If you found this project useful or inspiring, feel free to star ⭐ it and share your thoughts or suggestions via issues or pull requests.
-
-Would you like me to generate the actual folder structure or add badges (build status, license, etc.) as well?
