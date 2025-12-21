@@ -9,22 +9,22 @@ Currently, two official plugins are available:
 
 
 
-# 🤖 Smart AI ChatBot
+#  Smart AI ChatBot
 
 A full-stack AI-powered chatbot application that integrates OpenAI’s ChatGPT API for intelligent, real-time conversations. Built with **Java Spring Boot** (backend) and **React.js** (frontend), this project demonstrates how to blend modern web technologies with powerful AI models to deliver smart, conversational experiences.
 
-## 🧠 Features
+## Features
 
-- 🔁 Real-time AI-powered chat interface
-- ⚙️ Modular Spring Boot backend with structured REST APIs
-- 🤝 Integration with OpenAI ChatGPT API
-- ⚡ Dynamic React.js frontend with responsive UI
-- 📡 Full API communication using Axios
-- 📦 Clean project structure and maintainable code
+-  Real-time AI-powered chat interface
+-  Modular Spring Boot backend with structured REST APIs
+-  Integration with OpenAI ChatGPT API
+-  Dynamic React.js frontend with responsive UI
+-  Full API communication using Axios
+-  Clean project structure and maintainable code
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **Backend:** Spring Boot, Java, REST APIs
 - **Frontend:** React.js, Axios, HTML/CSS
@@ -38,7 +38,7 @@ A full-stack AI-powered chatbot application that integrates OpenAI’s ChatGPT A
 
 
 
-📝 Use Cases
+ Use Cases
 
 Customer support assistants
 
@@ -52,7 +52,7 @@ Educational bots
 
 ---
 
-📌 Future Improvements
+ Future Improvements
 
 Persistent chat history (DB integration)
 
@@ -68,14 +68,14 @@ Dockerized deployment
 
 ---
 
-📄 License
+ License
 
 This project is licensed under the MIT License.
 
 
 ---
 
-🙌 Acknowledgements
+ Acknowledgements
 
 OpenAI ChatGPT API
 
@@ -87,6 +87,6 @@ React.js
 
 ---
 
-💬 Feedback
+ Feedback
 
-If you found this project useful or inspiring, feel free to star ⭐ it and share your thoughts or suggestions via issues or pull requests.
+If you found this project useful or inspiring, feel free to star  it and share your thoughts or suggestions via issues or pull requests.
